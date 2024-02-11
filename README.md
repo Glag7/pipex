@@ -1,4 +1,4 @@
-#From the subject :
+# From the subject :
 
 Your program will be executed as follows:
 `./pipex file1 cmd1 cmd2 file2`
